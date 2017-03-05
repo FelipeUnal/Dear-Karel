@@ -13,7 +13,7 @@ public class Main {
     public static void Main (String[] args){
         
                 Soccer fut = new Soccer();
-		        fut.jugar();
+		fut.jugar();
                 fut.avanzar();
                 fut.avanzar();
                 fut.girarDerecha();
